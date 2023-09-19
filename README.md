@@ -17,3 +17,5 @@ some of the challanges ive faced throughout this challange so far has been getti
 ![Screenshot 2023-09-18 234508](https://github.com/Shawnclarke21/quizzardofoz/assets/139307719/b8538483-9622-40d6-bb12-e6945c8cf287)
 ![Screenshot 2023-09-18 234616](https://github.com/Shawnclarke21/quizzardofoz/assets/139307719/c4eef516-b7ac-48fe-807f-fefbfd5c7960)
 ![Screenshot 2023-09-18 234653](https://github.com/Shawnclarke21/quizzardofoz/assets/139307719/588d26bc-7637-45a7-a5df-f645acb18a30)
+https://shawnclarke21.github.io/quizzardofoz/
+https://github.com/Shawnclarke21/quizzardofoz
