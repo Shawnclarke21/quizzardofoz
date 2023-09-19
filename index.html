@@ -1,23 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width. inital-scale=1.0">
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <title>Coding Quiz</title>
-        <link rel="stylessheet" href="Assets/style.css">
+        <link rel="stylesheet" href="/Assets/style.css">
     </head>
+    <!--button for starting the quiz-->
     <body>
         <div class="startbtn"><button>Start</button></div>
+
+        <!--information for the quiz-->
 <div class="infobox">
-    <div class="info-title">
+    <div class="inforules">
         <span>Rules</span>
     </div>
-    <div class="info.">you recieve points when you answer correctly</div>
-    <div class="info">you are timed you have 1 minute to answer all 10 questions</div>
-    <div class="info">if you answer incorrectly time will be deducted</div>
-    <div class="info">if you run out of time the quiz will end</div>
-    <div class="info">if you dont know the answer choose randomly an answer is better than no answer</div>
-</div>
+    <div class="listitems">
+    <div class="info">1. you recieve points when you answer correctly</div>
+    <div class="info">2. you are timed you have 1 minute to answer all 10 questions</div>
+    <div class="info">3. if you answer incorrectly time will be deducted</div>
+    <div class="info">4. if you run out of time the quiz will end</div>
+    <div class="info">5. if you dont know the answer choose randomly an answer is better than no answer</div>
+        </div>
+        <div class="button">
+            <button class="continue">continue</button>
+        </div>
+        </div>
+<!--quiz!!!-->
+<div class="quizitems">
+    <header>
+    <div class="title">Coding quiz </div>
+    <div class="timer">
+        <div class="timeleft">TIME LEFT:</div>
+        <div class="time-sec"> 60</div>
+    </div>
+    </header>
+    <section>
+    <div class="question">
+        <span>Where do we put the javascript in HTML?</html></span>
+    </div>
+    <div class="options">
+        <div class="option"></div>
+        <span>Header</span>
+        <div class="correct">✅</div>
+        <div class="incorrect">❌</div>
+    </div>
 
+    </section>
+
+    <footer>
+        <Div class="totalquestions">
+        <span><p>1</p><p>of</p><p>5</p>Questions</span>
+        </Div>
+        <button class="next button">Next question</button>
+    </footer>
+
+</div>
 </body>
 </html>
