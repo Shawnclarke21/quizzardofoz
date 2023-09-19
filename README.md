@@ -14,3 +14,6 @@ when finished with this the project will display a start screen and when clicked
 
 some of the challanges ive faced throughout this challange so far has been getting my css and box styling to work properly and the way i want so far another challange i know i will face when the time comes is going to be setting up the javascript and figuring out where to start when it comes to these projects recently javascript has definitly been a change and it hit hard.
 
+![Screenshot 2023-09-18 234508](https://github.com/Shawnclarke21/quizzardofoz/assets/139307719/b8538483-9622-40d6-bb12-e6945c8cf287)
+![Screenshot 2023-09-18 234616](https://github.com/Shawnclarke21/quizzardofoz/assets/139307719/c4eef516-b7ac-48fe-807f-fefbfd5c7960)
+![Screenshot 2023-09-18 234653](https://github.com/Shawnclarke21/quizzardofoz/assets/139307719/588d26bc-7637-45a7-a5df-f645acb18a30)
